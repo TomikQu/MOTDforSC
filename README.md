@@ -1,2 +1,2 @@
 # MOTDforSC
-Message of the Day for Space Chimps
+**This repositry has been made for space chimps ONLY!, not for normal use or developer use**
