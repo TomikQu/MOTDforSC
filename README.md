@@ -1,2 +1,2 @@
 # MOTDforSC
-**This repositry has been made for space chimps ONLY!, not for normal use or developer use**
+**This repositry has been made for Flip Tag ONLY!, not for normal use or developer use**
